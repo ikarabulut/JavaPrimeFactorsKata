@@ -1,0 +1,8 @@
+# Ignore build files
+build
+
+# Ignore gradle files
+.gradle
+
+# Ignore gradle wrappers
+gradle
